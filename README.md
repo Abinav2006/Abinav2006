@@ -53,11 +53,17 @@
 
 ---
 
-## 🔩 IDE and Tools I Use
+## 🔗 🛠️ IDE and Tools I Use
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,kicad,matlab" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,matlab" height="60"/>
+
+<img src="https://cdn.simpleicons.org/kicad/314CB0" height="60"/>
+
+<img src="https://cdn.simpleicons.org/espressif/E7352C" height="60"/>
+
+<img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" height="60"/>
 
 </p>
 
