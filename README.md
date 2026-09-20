@@ -16,13 +16,13 @@
 
 ## 👨‍💻 About Me
 
-*🎓 Final-year ECE student at IIITDM Kancheepuram, focused on embedded hardware engineering.
-*🔧 Design multilayer PCBs with practical signal and power integrity considerations.
-*⚙️ Program ARM, RISC-V, and AVR microcontrollers at the register level.
-*💻 Develop reliable firmware using C/C++, peripherals, interrupts, and communication protocols.
-*⏱️ Explore RTOS concepts, task scheduling, synchronization, and real-time firmware design.
-*🛠️ Build low-level drivers and debug hardware using lab instrumentation.
-*🖼️ Image placement: right-aligned, 200px wide — embedded PCB and oscilloscope setup.
+-🎓 Final-year ECE student at IIITDM Kancheepuram, focused on embedded hardware engineering.
+-🔧 Design multilayer PCBs with practical signal and power integrity considerations.
+-⚙️ Program ARM, RISC-V, and AVR microcontrollers at the register level.
+-💻 Develop reliable firmware using C/C++, peripherals, interrupts, and communication protocols.
+-⏱️ Explore RTOS concepts, task scheduling, synchronization, and real-time firmware design.
+-🛠️ Build low-level drivers and debug hardware using lab instrumentation.
+-🖼️ Image placement: right-aligned, 200px wide — embedded PCB and oscilloscope setup.
 
 ---
 
