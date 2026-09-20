@@ -57,7 +57,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,kicad,matlab" />
 
 </p>
 
