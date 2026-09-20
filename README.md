@@ -16,21 +16,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year Electronics and Communication Engineering student at
-**IIITDM Kancheepuram**, interested in building reliable hardware and
-embedded systems.
-
-My hands-on experience spans **embedded firmware, microcontrollers,
-PCB design, sensor interfacing, communication protocols, and hardware
-debugging**. I work with tools such as **KiCad, Altium Designer,
-ESP-IDF, STM32CubeIDE, Arduino, and Git**.
-
-Currently, I'm expanding my knowledge of **VLSI, digital design,
-RTL development, and IC design flows**, with the goal of understanding
-hardware from the system and board level down to the chip level.
-
-I'm interested in opportunities involving **Embedded Systems,
-Hardware Engineering, PCB Design, Digital Design, and VLSI**.
+🎓 Final-year ECE student at IIITDM Kancheepuram, focused on embedded hardware engineering.
+🔧 Design multilayer PCBs with practical signal and power integrity considerations.
+⚙️ Program ARM, RISC-V, and AVR microcontrollers at the register level.
+💻 Develop reliable firmware using C/C++, peripherals, interrupts, and communication protocols.
+⏱️ Explore RTOS concepts, task scheduling, synchronization, and real-time firmware design.
+🛠️ Build low-level drivers and debug hardware using lab instrumentation.
+🖼️ Image placement: right-aligned, 200px wide — embedded PCB and oscilloscope setup.
 
 ---
 
