@@ -5,11 +5,10 @@
 ### Final-Year Electronics & Communication Engineering Student
 ### IIITDM Kancheepuram
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abinav2006)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/abinav-s-654777350/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abinavsuresht@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square)
 
 </div>
 
@@ -62,7 +61,7 @@ Hardware Engineering, PCB Design, Digital Design, and VLSI**.
 
 ---
 
-## 🔩 Embedded & Hardware
+## 🔩 IDE and Tools I Use
 
 <p align="left">
 
